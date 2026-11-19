@@ -1,0 +1,12 @@
+{
+  "name": "torquecalcs-formulas",
+  "version": "1.0.0",
+  "description": "Engineering formulas behind the TorqueCalcs calculators, with every published worked example as a test.",
+  "type": "module",
+  "main": "src/formulas.js",
+  "scripts": { "test": "node --test" },
+  "homepage": "https://torquecalcs.com/",
+  "license": "MIT",
+  "author": "Sajid Pervez (https://torquecalcs.com/engineering-calculator-author/)",
+  "engines": { "node": ">=18" }
+}
